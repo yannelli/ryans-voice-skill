@@ -1,14 +1,13 @@
-# Proposal
+# IT Proposal
 
 Basis: Adapted from a 2020 IT proposal (names, figures, and details changed)
 
 What to notice:
-- Each problem gets a short heading ("Public Wi-Fi", "Internet Performance") and one to three sentences.
-- The speed test comes first as a measurement, then "For perspective," turns it into a count of video calls.
-- The vendor gets one line of reasoning: "[Vendor] access points carry no yearly license, so the library owns them outright once paid for."
-- The timeline puts one task per line under period labels ("Week 1", "Week 2 to 3").
-- Pricing tables show quantity, unit price, and total in cents, and one asterisk footnote covers the estimate.
-- Terms are flat conditions: "If an invoice is more than 10 days late, onsite work stops until it is paid."
+- Each problem under "Current Challenges" gets a short heading and one to three sentences.
+- The speed test line gives the measurement, and the next paragraph opens "For perspective," to convert it into video calls.
+- "[Vendor] access points carry no yearly license, so the library owns them outright once paid for." is the one-line vendor reason.
+- The timeline lists one task per line under "Week 1", "Week 2 to 3", and "Week 4 to 5".
+- Tables show cents, one asterisk footnote covers the fiber estimate, and the terms end on flat conditions: "If an invoice is more than 10 days late, onsite work stops until it is paid."
 
 ## Current challenges
 

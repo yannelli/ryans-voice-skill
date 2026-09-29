@@ -4,11 +4,10 @@ Basis: Adapted from an undated IT service agreement draft (names, figures, and d
 
 What to notice:
 - Numbered caps headings ("1. SERVICES", "5. EXCLUSIONS") give each topic one short block.
-- A lead-in ending in a colon introduces each dash list: "The Services covered by this Agreement are:".
+- A lead-in ending in a colon introduces each dash list: "The following are not covered by this Agreement:".
 - Modifiers and conditions sit in parentheses beside the item: "(1.75x Modifier)", "(or the next business day if Tuesday is a federal holiday)".
-- No contractions; fees and consequences are flat sentences with digits.
-- Location entries use "Label: Sentence", with the sentence capitalized after the colon.
-- The document ends on the signature block.
+- Location entries use "Label: Sentence": "Commissary Kitchen: Onsite and remote support are billed at the standard rate".
+- No contractions, fees are flat sentences with digits, and the document ends on the signature block.
 
 ## Website and point-of-sale support agreement
 

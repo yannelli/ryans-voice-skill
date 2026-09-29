@@ -5,8 +5,7 @@ Basis: Composed from SKILL.md rules and quoted snippets; no source document
 What to notice:
 - The header block gives start, end, duration, and scope before any narrative.
 - The trigger and the cause get separate sentences: "The move did not directly cause the outage."
-- The open question is labeled "currently unknown" and says what is open on it.
-- Monitor output appears raw under its own label.
+- The open question is labeled "currently unknown" and says what is open on it, and monitor output appears raw under its own label.
 - Timeline entries are timestamped, terse, and present tense, including the step that did not work (11:41 AM).
 - Recommended actions each carry an owner and a date.
 

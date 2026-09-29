@@ -1,13 +1,12 @@
-# Instruction Letter (house or pet sitter)
+# Pet Sitter Letter
 
-Basis: Adapted from an undated letter to a pet sitter (names, figures, and details changed); the house guest snippet reuses the same layout
+Basis: Adapted from an undated letter to a pet sitter (names, figures, and details changed)
 
 What to notice:
 - A lead-in ending in a colon introduces the numbered list: "Here's who you'll be looking after:".
 - Each topic gets its own paragraph, opened by a transition: "In addition to meals,", "Regarding walks,", "As for the yard,", "Finally,".
 - Short related clauses join with a comma: "The mail can stay in the box, we'll get it Monday."
-- Contractions throughout, since this is a personal letter.
-- Phone numbers go one per line in a contact block, and the vet gets its own label: value lines.
+- Phone numbers go one per line in a contact block, and the vet gets label: value lines.
 - Parentheses carry a dry aside: "(Moose will argue otherwise)".
 
 ## Dog sitter
@@ -49,30 +48,4 @@ Thanks again, they're going to love the extra attention.
 Best,
 
 Chris & Dana
-```
-
-## House guest
-
-```text
-Hi Alex,
-
-Welcome, make yourself at home. Here's how the house works while we're away.
-
-Wi-Fi
-Network: [Network Name]
-Password: on the card taped inside the pantry door
-
-Thermostat: It's set to 70 during the day and 66 at night. Change it on the wall panel in the hall (the app takes a few minutes to sync).
-
-Regarding trash, pickup is Tuesday and Friday morning. Bins go to the curb the night before, recycling goes out Friday only.
-
-As for the garage, the keypad code is on the same card as the Wi-Fi password. Close it after you pull in, it doesn't close on its own.
-
-Unless it's an emergency, text instead of calling. We'll be in sessions most of the day.
-
-Jordan: 555-0133
-
-Enjoy the week,
-
-Jordan
 ```

@@ -1,13 +1,13 @@
-# Investor Q&A
+# Investor Q&A: Seed Round
 
 Basis: Composed from SKILL.md rules and quoted snippets; no source document
 
 What to notice:
-- Each heading is the investor's question, with the direct answer first and the mechanism after.
-- The calculation appears when the number backs the claim: "$89 + $300 = $389 per month".
-- Current metrics, estimates, and projections sit in separate sentences, and each estimate says so.
-- The assumption sits on the line beside the projection it drives.
-- The piece ends on the raise, the use of funds as a list, and a contact block.
+- Each heading is the investor's question, and the line under it is the direct answer.
+- The calculation appears where the number backs the claim: "$89 + $300 = $389 per month".
+- "(estimated)" labels the acquisition cost, and the next paragraph states what has not been tested.
+- The "Assumption:" line sits directly under the "Projection:" line it drives.
+- The piece ends on the raise, a colon lead-in to the use of funds, and a contact block.
 
 ## Q&A for a seed round
 

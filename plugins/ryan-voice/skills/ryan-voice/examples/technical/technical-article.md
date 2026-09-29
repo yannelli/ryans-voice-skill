@@ -7,7 +7,6 @@ What to notice:
 - The article opens on the observation that started it, with exact times.
 - The wrong first guess is narrated in order and closed with "My hypothesis was incorrect."
 - The mechanism is explained in plain English before the SQL.
-- Headings are plain nouns or a question ("Why Only the 1st?").
 - The last section lists what was not tested.
 
 ## Excerpt

@@ -1,4 +1,4 @@
-# Operating Instructions
+# Operating Instructions: Label Printer
 
 Basis: Adapted from undated equipment operating instructions (names, figures, and details changed)
 
@@ -7,7 +7,6 @@ What to notice:
 - "NOTE:" opens a label line, and the sentence after it starts with a capital.
 - Caps subheads ("FROM THE ORDER SCREEN", "FROM A BARCODE") split one task by method.
 - Steps say what the user sees after the action: "The display returns to READY."
-- Button names and screen text match the device exactly: "Feed", "READY", "PAUSED".
 - Conditions sit inline: "(If it shows PAUSED, press Feed once.)"
 
 ## Label printer

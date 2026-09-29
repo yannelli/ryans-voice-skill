@@ -1,4 +1,4 @@
-# PRD
+# PRD: Waitlist
 
 Basis: Composed from SKILL.md rules and quoted snippets; no source document
 
@@ -7,8 +7,7 @@ What to notice:
 - R1 to R6 are numbered and testable, each with a number or a named control: "R3: ... within 60 seconds."
 - Non-goals are flat one-line statements.
 - Open questions carry an owner and a date, and "currently unknown" and "TBD" stay as written.
-- Metrics pair a baseline with a target.
-- The timeline puts one task per line under period labels.
+- Metrics pair a baseline with a target: "6% today; target 40%".
 
 ## Waitlist PRD
 

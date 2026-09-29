@@ -1,12 +1,12 @@
-# Terms of Service and Policy
+# Terms of Service
 
 Basis: Composed from SKILL.md rules and quoted snippets; no source document
 
 What to notice:
-- Numbered caps sections hold a few one-line commitments each.
-- No contractions, and consequences run flat and in order: failed payment, retries, suspension, deletion.
-- Exclusions follow a colon lead-in as a dash list.
-- Section 5 carries the one dry line, followed by the exclusions.
+- Numbered caps sections hold one-line commitments.
+- Section 2 runs the consequences in order: failed payment, 2 retries, suspension, deletion after 60 days.
+- Colon lead-ins introduce the dash lists in Sections 4 and 5.
+- Section 5 carries the one dry line: "The hours it is not are covered below."
 - A worked case turns the credit rule into dollars: "on the $45 plan, 2 days down in a 30-day month is a $3 credit".
 
 ## Terms of service
@@ -48,19 +48,4 @@ If the service is down for more than 4 consecutive hours outside these exclusion
 
 6. CHANGES
 [Company] will email all account owners 30 days before any change to these terms takes effect.
-```
-
-## Data retention policy
-
-```text
-DATA RETENTION
-
-[Company] keeps account data while the account is active.
-
-After cancellation:
-- Bookings and client records are kept for 90 days, then deleted.
-- Invoices are kept for 7 years (to meet tax record requirements).
-- Backups that contain the account are overwritten within 35 days of deletion.
-
-To request earlier deletion, email [privacy email] from the account owner's address. Requests are completed within 30 days, and a confirmation is sent when done.
 ```

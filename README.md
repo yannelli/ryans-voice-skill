@@ -44,7 +44,7 @@ If a local copy exists at `~/.claude/skills/ryan-voice`, remove it after install
 | `plugins/ryan-voice/.codex-plugin/plugin.json` | Codex plugin (older fallback path) |
 | `plugins/ryan-voice/.cursor-plugin/plugin.json` | Cursor plugin |
 | `plugins/ryan-voice/skills/ryan-voice/SKILL.md` | The skill |
-| `plugins/ryan-voice/skills/ryan-voice/examples/` | Anonymized snippets per genre, loaded on demand |
+| `plugins/ryan-voice/skills/ryan-voice/examples/<category>/` | Anonymized samples, one per file, in business, legal, technical, support, personal, social, and editing folders, loaded on demand |
 
 ## Updating
 

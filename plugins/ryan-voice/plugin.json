@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ryan-voice",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Writes and edits text in Ryan Yannelli's voice: articles, emails, posts, specs, PRs, proposals, contracts, and letters.",
   "author": {
     "name": "Ryan Yannelli",

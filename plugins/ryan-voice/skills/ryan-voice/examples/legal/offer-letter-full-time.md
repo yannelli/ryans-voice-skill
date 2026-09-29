@@ -1,12 +1,12 @@
-# Offer Letter
+# Offer Letter: Full-Time
 
 Basis: Adapted from a 2021 offer letter (names, figures, and details changed)
 
 What to notice:
 - The offer is one sentence, and the contingencies follow in their own paragraph.
-- Terms use caps labels with a value column, and qualifiers go in parentheses: "(1 on-call weekend per month)", "(Flexible)".
-- Trial period, raise, and start dates are exact, with dates in MM/DD/YYYY.
-- No contractions, and the at-will terms are three short flat sentences.
+- Caps labels with a value column carry the terms, with qualifiers in parentheses: "(1 on-call weekend per month)".
+- Trial period, raise, and start dates are exact: "No earlier than 03/16/2026, no later than 03/30/2026".
+- No contractions, and the at-will paragraph is three short flat sentences.
 - The letter ends on the acceptance signature block.
 
 ## Full-time offer
@@ -58,16 +58,4 @@ SIGNATURE OF ACCEPTANCE:
 
 __________________________        __________________________
 Jordan [Last Name]                Date
-```
-
-## Part-time terms block
-
-```text
-HOURS & SCHEDULE:
-    HOURS PER WEEK:       16-24 Hours (Flexible)
-    SCHEDULE:             Weekday afternoons, 1 PM to 6 PM (set 2 weeks in advance)
-
-COMPENSATION:
-    BASE PAY:             $21.50 per hour, paid bi-weekly
-    BENEFITS:             Paid sick leave as required by state law (health insurance is not offered at this level)
 ```

@@ -24,7 +24,7 @@ There are three layers:
 2. Ground rules (section 4) and genre rules (section 6)
 3. Recurring habits (section 5) which contain samples of the voice
 
-Before drafting, read the matching file in `examples/` (section 11). Names, figures, and details in the examples are invented, copy the structure and never the facts.
+Before drafting, open the matching sample in `examples/<category>/` (section 11). Names, figures, and details in the examples are invented, copy the structure and never the facts.
 
 ## 0. Precedence
 
@@ -344,24 +344,14 @@ Good: The code uses both the selected options and the changed positions.
 
 ## 11. Examples by genre
 
-| File | Read when writing |
-| --- | --- |
-| [examples/proposal.md](examples/proposal.md) | A quote or proposal with measurements, pricing tables, a timeline, and terms |
-| [examples/service-agreement.md](examples/service-agreement.md) | A service contract, SLA, exclusions, or signature block |
-| [examples/offer-letter.md](examples/offer-letter.md) | An offer letter or employment terms |
-| [examples/operating-instructions.md](examples/operating-instructions.md) | Equipment or procedure instructions |
-| [examples/instruction-letter.md](examples/instruction-letter.md) | A letter to a pet sitter, house sitter, or house guest |
-| [examples/incident-report.md](examples/incident-report.md) | An incident report or postmortem |
-| [examples/professional-email.md](examples/professional-email.md) | Business email: approvals, past-due notices, status updates |
-| [examples/cold-outreach.md](examples/cold-outreach.md) | A first email or DM to someone Ryan doesn't know |
-| [examples/texts-and-dms.md](examples/texts-and-dms.md) | Texts, Slack DMs, or casual messages |
-| [examples/pr-and-commits.md](examples/pr-and-commits.md) | A PR body, commit subjects, or code comments |
-| [examples/social-posts.md](examples/social-posts.md) | An X or LinkedIn post |
-| [examples/investor-qa.md](examples/investor-qa.md) | Investor answers, raise details, or projections |
-| [examples/technical-article.md](examples/technical-article.md) | A blog, Medium, or debugging write-up |
-| [examples/terms-and-policy.md](examples/terms-and-policy.md) | TOS, acceptable use, or a data retention policy |
-| [examples/support-reply.md](examples/support-reply.md) | A help article or a support ticket reply |
-| [examples/prd.md](examples/prd.md) | A PRD or spec |
-| [examples/bio.md](examples/bio.md) | A speaker bio, About section, or profile line |
-| [examples/agent-instructions.md](examples/agent-instructions.md) | A skill file, agent prompt, or rules for an agent |
-| [examples/before-after.md](examples/before-after.md) | An edit of a draft that reads as AI-written |
+One sample per file, grouped by category. Open the file whose name matches the document.
+
+| Folder | Files | Read when writing |
+| --- | --- | --- |
+| `examples/business/` | `it-proposal.md`, `email-approval-request.md`, `email-past-due-notice.md`, `email-status-update.md`, `cold-email-prospective-customer.md`, `cold-email-open-source-maintainer.md`, `cold-dm-linkedin-candidate.md`, `investor-qa-seed-round.md`, `bio-speaker.md`, `bio-about-section.md`, `bio-profile-line.md` | Proposals, business email, cold outreach, investor answers, bios |
+| `examples/legal/` | `service-agreement.md`, `offer-letter-full-time.md`, `offer-letter-part-time-terms.md`, `terms-of-service.md`, `data-retention-policy.md` | Contracts, offer letters, TOS, policies |
+| `examples/technical/` | `pr-description.md`, `commit-subjects.md`, `code-comments.md`, `prd-waitlist.md`, `technical-article.md`, `incident-report.md`, `agent-skill-file.md`, `agent-prompt.md` | PRs, commits, comments, specs, articles, incident reports, agent instructions |
+| `examples/support/` | `operating-instructions-label-printer.md`, `help-article.md`, `support-reply-fix.md`, `support-reply-open-question.md` | Operating instructions, help articles, support replies |
+| `examples/personal/` | `pet-sitter-letter.md`, `house-guest-letter.md`, `text-friend.md`, `slack-dm-coworker.md`, `text-contractor.md` | Instruction letters, texts, DMs |
+| `examples/social/` | `x-posts.md`, `linkedin-post.md`, `linkedin-hiring-post.md` | X and LinkedIn posts |
+| `examples/editing/` | `email-opener.md`, `merged-letter-paragraph.md`, `contract-list-as-sentence.md`, `steps-as-sentence.md`, `contacts-as-sentence.md`, `metaphor-in-proposal.md`, `linkedin-announcement.md`, `pr-summary.md` | Editing a draft that reads as AI-written (before and after pairs) |
