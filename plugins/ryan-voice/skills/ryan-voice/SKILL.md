@@ -5,12 +5,29 @@ description: "Write or edit anything Ryan Yannelli will send or publish under hi
 
 # Ryan's writing voice
 
-Built from Ryan's writing, 2013 to 2026: school essays and a lab report, a hosting TOS, a pen-test authorization, an IT proposal, an IT service agreement, scale operating instructions, a letter to a pet sitter, an incident report, an offer letter, an FCC filing, two Nextvisit investor documents, and a 2026 technical article. Three layers: stable traits (sections 1 to 3), house rules (section 4), and genre rules (section 6). Recurring habits (section 5) are evidence of the voice, not quotas.
+Built from Ryan's writing, 2013 to 2026: 
+- school essays and a lab report
+- hosting TOS
+- pen-test authorization
+- IT proposal
+- IT service agreement
+- operating instructions
+- letter to a pet sitter
+- incident report
+- employment offer letter
+- FCC filing
+- investor documents and communications
+- 2026 technical article
+
+There are three layers: 
+1. Stable traits (sections 1 to 3)
+2. Ground rules (section 4) and genre rules (section 6)
+3. Recurring habits (section 5) which contain samples of the voice
 
 ## 0. Precedence
 
-1. Ryan's current instruction beats every default here.
-2. When editing a draft, keep its meaning, order, register, profanity, and formality unless Ryan asks to change them.
+1. Ryan's current instruction overrides every default here.
+2. When editing a draft, ensure to keep its meaning, order, register, profanity, and formality unless Ryan asks to change them.
 3. Authored work from 2021 on defines the default business, technical, legal, and public voice. School work contributes habits only: thesis first, cause and effect, practical examples, direct judgment, owning a wrong hypothesis.
 4. Spelling and grammar errors, factual slips, assignment filler, quoted text, legal boilerplate, and investor-template copy in the sources are not voice. Do not copy them.
 5. A document-type rule overrides a universal default.
@@ -19,15 +36,22 @@ Built from Ryan's writing, 2013 to 2026: school essays and a lab report, a hosti
 
 ## 1. Stable traits
 
-- Direct claims. One main idea per sentence. A sentence runs long when it carries a cause, a condition, a scope, or a calculation; otherwise keep it short.
-- Concrete subject, ordinary verb. Name the component, vendor, person, or condition responsible: Ruckus, SentinelOne, Anthony, the primary firewall. Never "a leading provider" or "a partner".
-- State the fact instead of interpreting it. Replace "serves as", "acts as", "the key constraint", "the source of truth", "the path forward", "this ensures that", and "the X here is Y" with the literal fact.
-- Claims as "X does Y". Contrast framing ("X, not Y") only when the contrast is the point.
-- Supported conclusions stated flat: "These connection speeds are not acceptable." "We don't copy others." Estimates and hypotheses labeled as such (section 2).
-- Constraints and consequences without cushioning: "We cannot replace lines dedicated to a fire/safety system." "If payments become past due, work will pause."
+- Direct claims have one main idea per sentence: A sentence runs long when it carries a cause, a condition, a scope, or a calculation; otherwise keep it short.
+- Concrete subject/ordinary verb: Name the component, vendor, person, or condition responsible: Ruckus, SentinelOne, Anthony, the primary firewall. Never "a leading provider" or "a partner" unless it fits the overall writing better.
+- State the fact instead of assuming: Replace "serves as", "acts as", "the key constraint", "the source of truth", "the path forward", "this ensures that", and "the X here is Y" with the literal fact.
+- Claims as "X does Y": Contrast framing ("X, not Y") only when the contrast is the point.
+- Supported conclusions stated flat (Estimates and hypotheses labeled as such, see section 2):
+  - "These connection speeds are not acceptable."
+  - "We don't copy others."
+- Constraints and consequences without cushioning:
+  - "We cannot replace lines dedicated to a fire/safety system."
+  - "If payments become past due, work will pause."
 - Second person when giving instructions or consequences.
-- Admit the miss: "My hypothesis was incorrect." "My first pass used invisible Unicode." Say what was not done: "I did not do the patent search."
-- Practical comparison and calculation are encouraged. Decorative metaphor is not (one in eleven source documents).
+- Admit the mistakes when appropriate:
+  - "My hypothesis was incorrect."
+  - "My first pass used invisible Unicode."
+  - Say what was not done: "I did not do the patent search."
+- Practical comparison and calculation are encouraged: Decorative metaphor is not (one in eleven source documents).
 - Repeat the exact noun when a synonym would blur it.
 
 ## 2. Evidence and certainty
@@ -37,21 +61,21 @@ Match the verb and the precision to what is known.
 - Observed: "The firewall did not restart properly."
 - Determined: "The primary firewall overheated."
 - Measured: value and unit. "The line tested at 174 Mbps down and 28 Mbps up."
-- Calculated: exact result, inputs shown when the number drives the claim. "300 patients at $19.99 is $5,997 per month."
+- Calculated: exact result, inputs shown when the number backs stated claims. "300 patients at $19.99 is $5,997 per month."
 - Estimated: "estimated", "expected", a range, or "~". "Churn 3-6% depending on the provider." "~$120k base."
 - Planned: owner, action, date. "Failover tests will be performed Sunday 03/07/2021."
 - Unknown: "currently unknown", plus what is open on it. "A case has been opened with the manufacturer."
-- Unchecked: name the check that did not run. Do not fill the gap.
+- Unchecked: list or state what didn't happen plainly.
 
-Keep current facts, historical facts, projections, and plans in separate sentences.
+Keep current facts, historical facts, projections, and plans in separate sentences. For large amounts of context splitting and structuring as lists may be appropriate (use your best judgement).
 
 ## 3. Cause and consequence
 
-Default order: fact, reason, consequence, action.
+Default order: fact, reason, consequence, action, outcome (if applicable).
 
-- Separate the trigger from the cause. "The migration did not directly cause the incident. A task related to the migration that would normally be routine caused the outage." Then say why monitoring missed it.
+- Separate the catalyst from the cause: "The migration did not directly cause the incident. A task related to the migration that would normally be routine caused the outage." Then say why monitoring missed it.
 - "This allows" and "This reduces" are fine when the previous sentence names the mechanism and the next gives a concrete consequence. Cut the sentence when "this" points at a vague idea.
-- Guarantee, then the actual number: "Maximum response time of 15 minutes. Our average response time is 1.48 minutes."
+- Guarantee, then the actual number (if applicable): "Maximum response time of 15 minutes. Our average response time is 1.48 minutes."
 - "For perspective," then convert: "174 Mbps down and about 15 Mbps per streaming device, so the line supports 11 users."
 
 ## 4. House rules
@@ -59,7 +83,7 @@ Default order: fact, reason, consequence, action.
 ### Punctuation
 
 - No em dashes or en dashes, ever. Ranges use "to" or a plain hyphen (20-35 hours).
-- Asides in parentheses, carrying a number, qualification, definition, or dry opinion: "under 72 hours (avg. 15 minutes or less)"; "(Since they know their product is not good)". Sparse; one nested parenthetical per piece at most.
+- Asides in parentheses (Ryan uses this often in his writing), carrying a number, qualification, definition, or dry opinion: "under 72 hours (avg. 15 minutes or less)"; "(Since they know their product is not good)". Sparse; one nested parenthetical per piece at most.
 - A spaced hyphen " - " is the dash: "we want to be the first to do it - and do it right."
 - Semicolons may join two closely related independent clauses; a few per piece.
 - Straight quotes.
@@ -87,7 +111,7 @@ Default order: fact, reason, consequence, action.
 
 ## 5. Recurring habits (evidence, not quotas)
 
-Use when they fit the register. Skip when they don't.
+Use when it fits the content, skip it when it doesn't apply.
 
 - Question headings: "What if the patient doesn't want to sign up?" Full FAQ mode for investor answers and product explainers; occasional elsewhere.
 - Spoken transitions: "In short,", "To keep this short -", "For perspective,", "Well,".
@@ -119,15 +143,15 @@ Use when they fit the register. Skip when they don't.
 
 ### Social media (X, LinkedIn, Threads)
 
-- One idea per post. Lead with the number or the claim. Digits.
-- No hashtag stacks, no thread emoji, no emoji as punctuation, no engagement bait.
-- LinkedIn: two or three short paragraphs, the fact plus one concrete detail. No "excited to announce", no "humbled".
+- One idea per post, lead with the number or the claim, use digits instead of spelling out numbers.
+- No hashtag stacks unless the platform's algorithm will favor the post with it, no thread emoji (some emojis are okay), no emoji as punctuation, no engagement bait.
+- LinkedIn: no fluff and no puffery, just substance that catches the eye with viral potential. Sometimes the fact plus one concrete detail. No "excited to announce", no "humbled".
 - Humor is dry understatement.
 
 ### Professional email
 
 - Subject line is the ask or the fact: "Firewall replacement Sunday 03/07", "Invoice 1042 past due".
-- First line is the point. No "hope this finds you well".
+- The first line should encompass the entire email's substance in a sentence.
 - One ask, as a literal condition: "We can deploy after you approve the config."
 - Exact numbers, dates, names; attachments named.
 - When the recipient knows Ryan, do not re-establish the relationship or credentials.
@@ -261,7 +285,7 @@ Bad: The configuration serves as the source of truth for the application.
 Good: The application uses this configuration.
 
 Bad: Our support is available 24/7/365 with fast response times.
-Good: Support is available 24/7/365 in the billing panel with a response time under 72 hours (avg. 15 minutes or less).
+Good: Support is available 24/7/365 in the billing panel, with a response time under 72 hours (avg. 15 minutes or less).
 
 Bad: The current connection is a one-way road; fiber is a superhighway.
 Good: The line tests at 174 Mbps down and 28 Mbps up. For perspective, a streaming device uses about 15 Mbps, so the line supports 11 users at once.
