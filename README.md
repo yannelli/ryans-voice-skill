@@ -6,8 +6,6 @@ The skill writes and edits text in Ryan Yannelli's voice. It is built from his w
 
 ## Install
 
-The repo is private. Each client clones it with your existing GitHub credentials.
-
 Claude Code:
 
 ```sh
