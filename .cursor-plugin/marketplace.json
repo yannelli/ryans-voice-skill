@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Writes and edits text in Ryan Yannelli's voice: articles, emails, posts, specs, PRs, proposals, contracts, and letters.",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "ryan-voice",
       "source": "plugins/ryan-voice",
       "description": "Writes and edits text in Ryan Yannelli's voice: articles, emails, posts, specs, PRs, proposals, contracts, and letters.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "productivity",
       "tags": [
         "writing",

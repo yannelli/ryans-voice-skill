@@ -44,11 +44,12 @@ If a local copy exists at `~/.claude/skills/ryan-voice`, remove it after install
 | `plugins/ryan-voice/.codex-plugin/plugin.json` | Codex plugin (older fallback path) |
 | `plugins/ryan-voice/.cursor-plugin/plugin.json` | Cursor plugin |
 | `plugins/ryan-voice/skills/ryan-voice/SKILL.md` | The skill |
+| `plugins/ryan-voice/skills/ryan-voice/examples/` | Anonymized snippets per genre, loaded on demand |
 
 ## Updating
 
-1. Edit `plugins/ryan-voice/skills/ryan-voice/SKILL.md`.
+1. Edit `SKILL.md` or a file in `examples/`. Examples keep invented names, figures, and details, with no text copied from a source document.
 2. Bump `version` in all four plugin manifests and in `.cursor-plugin/marketplace.json`. Clients cache by version.
 3. Run `claude plugin validate .` and `claude plugin validate plugins/ryan-voice`.
 
-Manifest fields, sources, and install notes for each client are in [docs/INDEX.md](docs/INDEX.md).
+Manifest fields, the skill format, sources, and install notes for each client are in [docs/INDEX.md](docs/INDEX.md).
