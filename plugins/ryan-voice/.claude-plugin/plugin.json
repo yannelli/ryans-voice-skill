@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ryan-voice",
+  "version": "1.0.0",
+  "description": "Writes and edits text in Ryan Yannelli's voice: articles, emails, posts, specs, PRs, proposals, contracts, and letters.",
+  "author": {
+    "name": "Ryan Yannelli",
+    "email": "ryanyannelli@gmail.com",
+    "url": "https://github.com/yannelli"
+  },
+  "homepage": "https://github.com/yannelli/ryans-voice-skill",
+  "repository": "https://github.com/yannelli/ryans-voice-skill",
+  "keywords": [
+    "writing",
+    "voice",
+    "style"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ryans-voice-skill",
+  "interface": {
+    "displayName": "Ryan's Voice"
+  },
+  "plugins": [
+    {
+      "name": "ryan-voice",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ryan-voice"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
